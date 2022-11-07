@@ -1,0 +1,64 @@
+.prefooter {
+    background: #161616;
+    padding: 83px 0 79px;
+}
+
+.container {
+    max-width: 1160px;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+
+.prefooter_wrap {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.22499999403953552px;
+    text-align: left;
+    color: white;
+    margin-bottom: 22px;
+}
+
+.prefooter_p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+
+.pre_p {
+    margin-bottom: 0;
+}
+
+.logos {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 56px;
+}
+
+.prefooter1_p {
+    max-width: 221px;
+    margin-top: 20px;
+}
+
+.prefooter_logo_h {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    color: white;
+
+}
