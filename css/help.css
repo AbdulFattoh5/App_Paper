@@ -1,0 +1,130 @@
+.help {
+    background: #161616;
+    padding: 135px 0 151px;
+}
+
+.help_h {
+    font-family: 'Roboto', sans-serif;
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 54px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+    margin-bottom: 34px;
+}
+
+.help_p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    color: white;
+    max-width: 801px;
+    margin: auto;
+}
+
+.books {
+    margin-top: 98px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.book1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    align-self: flex-start;
+    margin-top: 56px;
+}
+
+.book{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.book_h {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    padding-bottom: 17px;
+    margin-left: 7px;
+}
+
+.book2 {
+    max-width: 126px;
+}
+
+.book3 {
+    max-width: 125px;
+}
+
+.book4 {
+    max-width: 135px;
+}
+
+.book5 {
+    max-width: 111px;
+}
+
+.book6 {
+    max-width: 132px;
+}
+
+.book7 {
+    max-width: 63px;
+}
+
+.book_p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.5);
+    margin-left: 7px;
+}
+
+.book1_p{
+    padding-top: 9px;
+    margin-left: 0;
+}
+
+.book2_p{
+    padding-top: 7px;
+}
+
+.book3_p{
+    max-width: 179px;
+    padding-top: 9px;
+}
+
+
+.book4_p{
+    padding-top: 7px;
+}
+
+.book5_p{
+    max-width: 192px;
+    padding-top: 9px;
+}
+
+.book6_p{
+    max-width: 190px;
+    padding-top: 9px;
+}
+
+.book7_p{
+    padding-top: 7px;
+}
