@@ -1,9 +1,7 @@
 .paint {
-    margin-top: 80px;
     background: url(../img/bg.svg) no-repeat top center/cover;
-    height: 870px;
-    padding: 35px 120px 0;
-
+    height: 948px;
+    padding: 115px 120px 0;
 }
 
 .paint_desc {
@@ -32,8 +30,8 @@
     text-align: center;
     color: #161616;
     max-width: 791px;
+    margin-bottom: 515px;
 }
 
 .panel{
-    margin-top: 519px;
 }
