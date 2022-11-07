@@ -1,0 +1,38 @@
+.way {
+    padding: 85px 84px 96px 0;
+}
+
+.way_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.way_desc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 132px;
+}
+
+.way_desc_h {
+    font-family: 'Roboto', sans-serif;
+    font-size: 52px;
+    font-weight: 400;
+    line-height: 54px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #161616;
+    max-width: 350px;
+    margin-bottom: 34px;
+}
+
+.way_desc_p {
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #161616;
+    max-width: 376px;
+}
