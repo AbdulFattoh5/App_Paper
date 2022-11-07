@@ -1,0 +1,43 @@
+.download {
+    padding-bottom: 215px;
+}
+
+.dawnload_wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.app_icon {
+    margin-bottom: 26px;
+    filter: drop-shadow(0px 6px 24px rgba(0, 0, 0, 0.15));
+    border-radius: 24px;
+}
+
+.dawnload_p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #161616;
+    margin-bottom: 29px;
+}
+
+.button {
+    padding: 3px 28px;
+    color: white;
+    background: #161616;
+    border: 2px solid #000000;
+    border-radius: 100px;
+    transition: 0.4s;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: center;
+}
+
+.button:hover {
+    transform: scale(1.4);
+}
